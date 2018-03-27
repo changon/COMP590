@@ -6,7 +6,10 @@ This code is a framework for developing programming assignments / projects for C
 Refer to [BUILD.md](Huffman/BUILD.md)
 
 ## CurveFit
+Dependencies: Python 3.5, numpy, scipy.optimize
+
 cd Huffman/src/
+
 ./run.sh
 
 Change controlFile.inp to indicate the file of interest for compression. 
